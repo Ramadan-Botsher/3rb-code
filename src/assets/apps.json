@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "App One",
+    "description": "This is a brief description of App One.",
+    "image": "/path/to/image1.png",
+    "technologies": ["React", "Tailwind CSS", "GSAP"],
+    "github": "https://github.com/username/app-one",
+    "liveDemo": "https://app-one.vercel.app"
+  },
+  {
+    "id": 2,
+    "name": "App Two",
+    "description": "This is a brief description of App Two.",
+    "image": "/path/to/image2.png",
+    "technologies": ["React", "Redux"],
+    "github": "https://github.com/username/app-two",
+    "liveDemo": "https://app-two.vercel.app"
+  }
+]
