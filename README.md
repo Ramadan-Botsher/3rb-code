@@ -9,6 +9,8 @@ This is a React application showcasing multiple small React projects.
 3. Run `npm run dev` to start the development server.
 
 ## Features
-
+- More than 100 front end projects
+- Different technoligies and libraries
+- Guide for each project
 - Dark mode toggle
 - App grid with filtering
